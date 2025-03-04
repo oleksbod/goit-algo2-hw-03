@@ -59,4 +59,5 @@
 Результат:
 
 Total range_query time for OOBTree: 4.152481 seconds
+
 Total range_query time for Dict: 1.424580 seconds
